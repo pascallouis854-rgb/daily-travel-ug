@@ -1,2 +1,1 @@
-# daily-travel-ug
-Online Ticket plartform
+Fixed login V3 - local first, then cloud
